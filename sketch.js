@@ -54,7 +54,7 @@ function draw(){
         text("Use the left and right arrow keys to move left and right. Use the space bar to jump.", 120, 80);
         text("If you hold the space bar under an object, you'll 'hang' onto it", 140,110);
         text("Remember, the higher your score gets, the harder the game becomes", 150, 140);
-        text("Your score will start increasing when you jump", 180, 140)
+        text("Your score will start increasing when you jump", 180, 170);
         text("Press 'S' to start the game", 260 , 200);
         
         if(keyDown("s")){
